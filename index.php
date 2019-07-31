@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
  <main>
 <head>
 <title>index.php</title>
